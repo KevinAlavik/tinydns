@@ -1,3 +1,2 @@
 tinydns_test*
-client_resource_records*
-main*
+client_resource_records.o
